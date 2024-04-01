@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className="flex justify-between items center bg-gradient-to-r from-indigo-700 via-sky-500 to-indigo-500 text-white px-8 py-3">
       <Link href={"/"}>
         <Image
-          src="/logoIDP.png"
+          src="/log1.png"
           alt="Logo"
           width={50}
           height={17}
